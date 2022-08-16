@@ -1,4 +1,3 @@
-# L96HistoryMatching
 History Matching for the Lorenz 96 model
 
 [![MIT
@@ -16,6 +15,6 @@ commits](https://img.shields.io/github/commits-since/HRMES-MOPGA/L96HistoryMatch
 
 
 This is the source code related to the publication
-> Redouane Lguensat, Julie Deshayes, Homer Durand, V. Balaji. 2022
-> Semi-automatic tuning of coupled climate models with multiple intrinsic timescales: lessons learned from the Lorenz96 model
+> Redouane Lguensat, Julie Deshayes, Homer Durand, V. Balaji. 
+> Semi-automatic tuning of coupled climate models with multiple intrinsic timescales: lessons learned from the Lorenz96 model (2022)
 > Pre-print: [https://arxiv.org/abs/2208.06243](https://arxiv.org/abs/2208.06243)
