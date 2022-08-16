@@ -1,9 +1,9 @@
 History Matching for the Lorenz 96 model
 
 [![MIT
-license](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/maikejulie/DNN4Cli/blob/main/LICENSE/)
+license](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/HRMES-MOPGA/L96HistoryMatching/blob/main/LICENSE/)
 [![GitHub
-contributors](https://img.shields.io/github/contributors/HRMES-MOPGA/L96HistoryMatching)](https://github.com/maikejulie/DNN4Cli/graphs/contributors)
+contributors](https://img.shields.io/github/contributors/HRMES-MOPGA/L96HistoryMatching)](https://github.com/HRMES-MOPGA/L96HistoryMatching/graphs/contributors)
 [![PRs
 Welcome](https://img.shields.io/badge/PRs-welcome-yellow.svg)](https://makeapullrequest.com/)
 <!---
