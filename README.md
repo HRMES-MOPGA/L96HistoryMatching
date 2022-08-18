@@ -22,7 +22,7 @@ This is the source code related to the publication
 # Important
 You need to install two main libraries:
 * https://github.com/BayesExeter/ExeterUQ_MOGP/tree/devel (please use devel branch)
-* https://github.com/alan-turing-institute/mogp-emulator (code is tested/working with version 0.5.2, mogp_emulator is updated frequently and can introduce breaking changes) 
+* https://github.com/alan-turing-institute/mogp-emulator (code is tested/working with version 0.5.0, mogp_emulator is updated frequently and can introduce breaking changes) 
 
 Please add the _utils.R_ file to the _BuildEmulator_ folder in _ExeterUQ_MOGP_
 
