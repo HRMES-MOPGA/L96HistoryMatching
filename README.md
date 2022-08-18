@@ -18,3 +18,8 @@ This is the source code related to the publication
 > Redouane Lguensat, Julie Deshayes, Homer Durand, V. Balaji. 
 > Semi-automatic tuning of coupled climate models with multiple intrinsic timescales: lessons learned from the Lorenz96 model (2022)
 > Pre-print: [https://arxiv.org/abs/2208.06243](https://arxiv.org/abs/2208.06243)
+
+# Important
+You need to install two main libraries:
+* https://github.com/BayesExeter/ExeterUQ_MOGP/tree/devel (please use devel branch)
+* https://github.com/alan-turing-institute/mogp-emulator (code is tested/working with version 0.5.2, mogp_emulator is updated frequently and can introduce breaking changes) 
