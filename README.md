@@ -23,3 +23,13 @@ This is the source code related to the publication
 You need to install two main libraries:
 * https://github.com/BayesExeter/ExeterUQ_MOGP/tree/devel (please use devel branch)
 * https://github.com/alan-turing-institute/mogp-emulator (code is tested/working with version 0.5.2, mogp_emulator is updated frequently and can introduce breaking changes) 
+
+# How to use the notebooks
+There are four experiments in the paper, each one is the result of two notebooks. One is written in Python and is used for running the L96 model, the other is written in R and is used to perform HM. Any help in making one Python only notebook is more than welcome !
+
+Steps:
+* you need to start from the R notebook
+* define your initial guess parameter space and run LHS
+* save the designpoints then move to the Python notebook
+* read the saved data, and run the L96 on the design points, then save the metrics and go back to the R notebook
+* run History matching then repeat for subsequent waves !
