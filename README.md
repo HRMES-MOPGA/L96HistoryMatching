@@ -19,6 +19,8 @@ This is the source code related to the publication
 > Semi-automatic tuning of coupled climate models with multiple intrinsic timescales: lessons learned from the Lorenz96 model (2022)
 > Pre-print: [https://arxiv.org/abs/2208.06243](https://arxiv.org/abs/2208.06243)
 
+![image info](./HM.gif)
+
 # Important
 You need to install two main libraries:
 * https://github.com/BayesExeter/ExeterUQ_MOGP/tree/devel (please use devel branch)
