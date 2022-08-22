@@ -13,6 +13,7 @@ commits](https://img.shields.io/github/commits-since/HRMES-MOPGA/L96HistoryMatch
 
 # Semi-automatic tuning of coupled climate models with multiple intrinsic timescales: lessons learned from the Lorenz96 model
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/HRMES-MOPGA/L96HistoryMatching/HEAD)
 
 This is the source code related to the publication
 > Redouane Lguensat, Julie Deshayes, Homer Durand, V. Balaji. 
