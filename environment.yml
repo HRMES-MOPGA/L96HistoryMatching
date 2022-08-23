@@ -1,4 +1,4 @@
-name: /data/rlguensat/conda_envs/envHM
+name: envHM
 channels:
   - conda-forge
   - defaults
@@ -382,4 +382,3 @@ dependencies:
     - pyqtchart==5.12
     - pyqtwebengine==5.12.1
     - mogp_emulator==0.5.0
-prefix: /data/rlguensat/conda_envs/envHM
