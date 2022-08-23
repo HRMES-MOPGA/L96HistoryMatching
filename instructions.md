@@ -1,4 +1,6 @@
+# Install EXETER_MOGP
 
+git clone -b devel https://github.com/BayesExeter/ExeterUQ_MOGP
 
 # BuildEmulator.R
 
