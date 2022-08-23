@@ -1,6 +1,7 @@
 # install mogp_emulator
 
-pip install mogp_emulator=0.5.0
+pip install mogp_emulator=0.5.0 
+(already done if you're using binder)
 
 # find path of mogp_emulator
 
@@ -19,3 +20,4 @@ source("ExeterUQ_MOGP/BuildEmulator/CustomPredict.R")
 
 source("ExeterUQ_MOGP/HistoryMatching/impLayoutplot.R")
 
+# Please add the utils.R file to the BuildEmulator folder in ExeterUQ_MOGP
