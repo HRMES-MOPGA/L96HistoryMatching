@@ -1,11 +1,17 @@
+# install mogp_emulator
+
+pip install mogp_emulator=0.5.0
+
+# find path of mogp_emulator
+
+pip show mogp_emulator
+
 # Install EXETER_MOGP
 
 git clone -b devel https://github.com/BayesExeter/ExeterUQ_MOGP
 
 # BuildEmulator.R
 
-packages <- c('reticulate','pracma', 'invgamma', 'GenSA', 'far', 'fields', 'lhs', 'maps', 'mco', 'mvtnorm', 'ncdf4', 'parallel', 'shape', 'tensor', 'withr', 'loo','MASS')
-sapply(packages, require, character.only = TRUE, quietly = TRUE)
 source("ExeterUQ_MOGP/BuildEmulator/AutoLMcode.R")
 source("ExeterUQ_MOGP/BuildEmulator/CustomPredict.R")
 
@@ -13,6 +19,3 @@ source("ExeterUQ_MOGP/BuildEmulator/CustomPredict.R")
 
 source("ExeterUQ_MOGP/HistoryMatching/impLayoutplot.R")
 
-# find path of mogp_emulator
-
-pip show mog_emulator
