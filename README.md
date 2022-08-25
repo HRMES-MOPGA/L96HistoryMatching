@@ -6,6 +6,8 @@ license](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/
 contributors](https://img.shields.io/github/contributors/HRMES-MOPGA/L96HistoryMatching)](https://github.com/HRMES-MOPGA/L96HistoryMatching/graphs/contributors)
 [![PRs
 Welcome](https://img.shields.io/badge/PRs-welcome-yellow.svg)](https://makeapullrequest.com/)
+[![DOI](https://zenodo.org/badge/525369211.svg)](https://zenodo.org/badge/latestdoi/525369211)
+
 <!---
 [![DOI](http://img.shields.io/badge/DOI-10.1029/2021MS002496-B31B1B.svg)](https://doi.org/10.1029/2021MS002496)
 [![GitHub
